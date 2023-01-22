@@ -45,3 +45,5 @@ M.PlotCircle()
 
 * Saída
 ![image](https://user-images.githubusercontent.com/71474825/213896388-0050b56c-b720-4e27-a9b4-2e3d5de7843e.png)
+
+Baseado nas aulas do Prof. Luiz A. C. M. de Aragão Filho na disciplina de Resistência dos Materiais II em Engenharia Civil na Universidade Federal do Ceará (UFC) e no R. C. Hibbeler - 5a edição
